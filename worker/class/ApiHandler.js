@@ -25,7 +25,7 @@ class ApiHandler {
     
     fetchOrgDetails = async (organizationId, sessionToken) => {
         try {
-            const response = await axios.get(`https://www.insidemaps.com/api/v2/organizations/${organizationId}`, {
+            const response = await axios.get(`https://stage.insidemaps.com/api/v2/organizations/${organizationId}`, {
                 headers: {
                     'Authorization': `Bearer ${sessionToken}`
                 }
@@ -33,7 +33,7 @@ class ApiHandler {
             return response.data.data;
           
         } catch (error) {
-            console.error(`Error fetching organization details`, error);
+            console.error(`Error fetching organization details for org id ${organizationId}`, error);
             return null;
         }
     }

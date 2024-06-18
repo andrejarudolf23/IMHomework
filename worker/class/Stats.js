@@ -10,13 +10,12 @@ class Stats {
     }
 
     fetchDataAndUpdateStatsFile = async () => {
-        console.log("Started fetching data, aggregating it and writing it in a file");
         let allStats = {};
 
         for (const org of Config.organizations) {
             const { organizationId, masterKey } = org;
-
-            const sessionToken = await ApiHandler.fetchSessionToken();
+            const sessionToken = await ApiHandler.fetchSessionToken(masterKey);
+            //console.log("SESSION TOKEN IS: " + sessionToken);
             const orgDetails = await ApiHandler.fetchOrgDetails(organizationId, sessionToken);
             const orgName = orgDetails.name;
             const projectIds = await ApiHandler.fetchProjectIds(organizationId, sessionToken);

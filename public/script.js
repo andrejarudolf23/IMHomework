@@ -11,18 +11,11 @@ document.addEventListener('DOMContentLoaded', () => {
         return `${year}-${month}`;
     }
 
-    fetchStats = async (yearMonth) => {
-        let stats;
-        try {
-            const response = await fetch(`/api/stats/${yearMonth}`);
-            stats = response.json();
+    fetchStats = async (yearMonth) => {        
+        const response = await fetch(`/api/stats/${yearMonth}`);
+        const stats = await response.json();
 
-        } catch (error) {
-            console.log("Error fetching stats: " + error);
-            return;
-        }
-
-        displayStats(stats);
+        this.displayStats(stats);
     }
 
     displayStats = (stats) => {
@@ -32,8 +25,9 @@ document.addEventListener('DOMContentLoaded', () => {
             statsDiv.innerHTML = "There are no projects in the selected month for any of the available organizations, please select another month";
             return;
         }
-        Object.keys(stats).foreach(orgId => {
+        Object.keys(stats).forEach(orgId => {
             const orgStats = stats[orgId];
+
             const orgSection = document.createElement('div');
             orgSection.className = 'org-section';
 
@@ -44,6 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const table = document.createElement('table');
             const thead = document.createElement('thead');
             thead.innerHTML = '<tr><th>Metric</th><th>Value</th></tr>';
+
             table.appendChild(thead);
 
             const tbody = document.createElement('tbody');
@@ -89,10 +84,9 @@ document.addEventListener('DOMContentLoaded', () => {
             table.appendChild(tbody);
             orgSection.appendChild(table);
             statsDiv.appendChild(orgSection);
-
         })
 
-    }
+    };
 
     setAutoRefresh = (yearMonth) => {
         if(autoRefreshTimeout) {
@@ -104,6 +98,14 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     
     monthInput.value = getCurrentYearMonth();
+
+    monthInput.addEventListener('change', () => {
+        setAutoRefresh(monthInput.value);
+    })
+
+    refreshButton.addEventListener('click', () => {
+        setAutoRefresh(monthInput.value);
+    })
 
     setAutoRefresh(monthInput.value);
 });

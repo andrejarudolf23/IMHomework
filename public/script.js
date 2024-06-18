@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const monthInput = document.getElementById('month');
     const statsDiv = document.getElementById('stats');
     const refreshButton = document.getElementById('refreshButton');
+    let autoRefreshTimeout;
 
     getCurrentYearMonth = () => {
         const now = new Date();
@@ -13,13 +14,9 @@ document.addEventListener('DOMContentLoaded', () => {
     fetchStats = async (yearMonth) => {
         let stats;
         try {
-            console.log("Hello");
             const response = await fetch(`/api/stats/${yearMonth}`);
-            console.log("Response is: " + response);
-            console.log("Response type is: " + typeof(response));
             stats = response.json();
-            console.log("Stats are: " + response);
-            console.log("Type of stats: " + typeof(response));
+
         } catch (error) {
             console.log("Error fetching stats: " + error);
             return;
@@ -96,6 +93,17 @@ document.addEventListener('DOMContentLoaded', () => {
         })
 
     }
+
+    setAutoRefresh = (yearMonth) => {
+        if(autoRefreshTimeout) {
+            clearTimeout;
+        }
+
+        fetchStats(yearMonth);
+        autoRefreshTimeout = setInterval(() => fetchStats(yearMonth), 60000);
+    }
     
     monthInput.value = getCurrentYearMonth();
+
+    setAutoRefresh(monthInput.value);
 });

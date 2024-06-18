@@ -15,8 +15,15 @@ router.get('/api/stats/:month', (req, res) => {
             return res.status(500).json({ error: 'Error reading file' });
         }
 
+        if (data.trim().length == 0) {
+            //console.log("IT IS EMPTY");
+            return res.json("Empty");            
+        }
+
         try {
+           // console.log("DATA IS: " + JSON.stringify(data));
             const stats = JSON.parse(data);
+
             const result = {};
 
             for (const key in stats) {                

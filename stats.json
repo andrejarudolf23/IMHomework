@@ -1,1 +1,1547 @@
-{"p7sdXqUHvo":{},"IMXmiLCBks":{},"0bqEqWRDww":{}}
+{
+    "p7sdXqUHvo": {
+        "2023-01": {
+            "orgName": "Danica Organizacija",
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 0.7390672222222222,
+            "averageProcessingTime": 0.7390672222222222,
+            "projectCountByScanner": {
+                "GtunpUTL5l": 1
+            },
+            "totalAreaScanned": 486.20643939,
+            "projectCount": 1
+        },
+        "2022-11": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 0.3349858333333333,
+            "averageProcessingTime": 0.3349858333333333,
+            "projectCountByScanner": {
+                "GtunpUTL5l": 1
+            },
+            "totalAreaScanned": 47.220152909999996,
+            "projectCount": 1
+        },
+        "2022-08": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 0.3204666666666667,
+            "averageProcessingTime": 0.3204666666666667,
+            "projectCountByScanner": {
+                "GtunpUTL5l": 1
+            },
+            "totalAreaScanned": 574.98170464,
+            "projectCount": 1
+        },
+        "2022-05": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 35.06233638888889,
+            "averageProcessingTime": 35.06233638888889,
+            "projectCountByScanner": {
+                "f8o18axPuc": 1
+            },
+            "totalAreaScanned": 1072.9670798,
+            "projectCount": 1
+        },
+        "2022-04": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "HDR Photos": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 0.14563722222222222,
+            "averageProcessingTime": 0.14563722222222222,
+            "projectCountByScanner": {
+                "GtunpUTL5l": 1
+            },
+            "totalAreaScanned": 0,
+            "projectCount": 1
+        },
+        "2022-03": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 1308.6360352777779,
+            "averageProcessingTime": 1308.6360352777779,
+            "projectCountByScanner": {
+                "f8o18axPuc": 1
+            },
+            "totalAreaScanned": 919.8828940000001,
+            "projectCount": 1
+        },
+        "2021-11": {
+            "finishedProjects": 2,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 2
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 2,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 0.4153261111111112,
+            "averageProcessingTime": 0.2076630555555556,
+            "projectCountByScanner": {
+                "GtunpUTL5l": 2
+            },
+            "totalAreaScanned": 603.15944206,
+            "projectCount": 2
+        },
+        "2021-10": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 0.17561416666666665,
+            "averageProcessingTime": 0.17561416666666665,
+            "projectCountByScanner": {
+                "GtunpUTL5l": 1
+            },
+            "totalAreaScanned": 575.8255944,
+            "projectCount": 1
+        },
+        "2021-09": {
+            "finishedProjects": 2,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 1,
+                "Floor Plan": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 2,
+            "totalSmartTags": 2,
+            "averageSmartTagsCount": 1,
+            "totalProcessingTime": 0.32488,
+            "averageProcessingTime": 0.16244,
+            "projectCountByScanner": {
+                "GtunpUTL5l": 2
+            },
+            "totalAreaScanned": 676.82003893,
+            "projectCount": 2
+        },
+        "2021-07": {
+            "finishedProjects": 2,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Floor Plan": 2
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 2,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 0.87461,
+            "averageProcessingTime": 0.437305,
+            "projectCountByScanner": {
+                "GtunpUTL5l": 2
+            },
+            "totalAreaScanned": 617.00289385,
+            "projectCount": 2
+        },
+        "2021-06": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard + Video": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 0,
+            "totalSmartTags": 7,
+            "averageSmartTagsCount": 7,
+            "totalProcessingTime": 48.20755361111111,
+            "averageProcessingTime": 48.20755361111111,
+            "projectCountByScanner": {
+                "f8o18axPuc": 1
+            },
+            "totalAreaScanned": 2886.1126667099998,
+            "projectCount": 1
+        },
+        "2021-04": {
+            "finishedProjects": 4,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 3,
+                "HDR Photos": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 4,
+            "totalSmartTags": 2,
+            "averageSmartTagsCount": 0.5,
+            "totalProcessingTime": 19.958221944444443,
+            "averageProcessingTime": 4.989555486111111,
+            "projectCountByScanner": {
+                "n7qQLftX4y": 3,
+                "f8o18axPuc": 1
+            },
+            "totalAreaScanned": 4013.1080661700007,
+            "projectCount": 4
+        },
+        "2021-03": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 0,
+            "totalSmartTags": 1,
+            "averageSmartTagsCount": 1,
+            "totalProcessingTime": 17.64542611111111,
+            "averageProcessingTime": 17.64542611111111,
+            "projectCountByScanner": {
+                "f8o18axPuc": 1
+            },
+            "totalAreaScanned": 658.04564455,
+            "projectCount": 1
+        },
+        "2021-02": {
+            "finishedProjects": 2,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "HDR Photos": 1,
+                "Standard": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 2,
+            "totalSmartTags": 3,
+            "averageSmartTagsCount": 1.5,
+            "totalProcessingTime": 4.5772755555555555,
+            "averageProcessingTime": 2.2886377777777778,
+            "projectCountByScanner": {
+                "nJs91GvqAg": 1,
+                "f8o18axPuc": 1
+            },
+            "totalAreaScanned": 1428.84098882,
+            "projectCount": 2
+        },
+        "2021-01": {
+            "finishedProjects": 5,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 4,
+                "Standard + Video": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 4,
+            "totalSmartTags": 17,
+            "averageSmartTagsCount": 3.4,
+            "totalProcessingTime": 99.83285416666666,
+            "averageProcessingTime": 19.966570833333332,
+            "projectCountByScanner": {
+                "f8o18axPuc": 3,
+                "n7qQLftX4y": 1,
+                "5BG83ZUcic": 1
+            },
+            "totalAreaScanned": 8481.68194972,
+            "projectCount": 5
+        },
+        "2020-12": {
+            "finishedProjects": 4,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 3,
+                "Standard + Video": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 4,
+            "totalSmartTags": 9,
+            "averageSmartTagsCount": 2.25,
+            "totalProcessingTime": 394.45607666666666,
+            "averageProcessingTime": 98.61401916666667,
+            "projectCountByScanner": {
+                "f8o18axPuc": 4
+            },
+            "totalAreaScanned": 1827.8146298299998,
+            "projectCount": 4
+        },
+        "2020-11": {
+            "finishedProjects": 3,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 3
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 3,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 1.2724702777777777,
+            "averageProcessingTime": 0.4241567592592592,
+            "projectCountByScanner": {
+                "f8o18axPuc": 3
+            },
+            "totalAreaScanned": 1595.20890361,
+            "projectCount": 3
+        },
+        "2020-10": {
+            "finishedProjects": 3,
+            "unfinishedProjects": 1,
+            "projectCountByPackage": {
+                "Standard + Video": 2,
+                "Standard": 2
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 4,
+            "totalSmartTags": 14,
+            "averageSmartTagsCount": 3.5,
+            "totalProcessingTime": 2.7314711111111114,
+            "averageProcessingTime": 0.6828677777777779,
+            "projectCountByScanner": {
+                "f8o18axPuc": 4
+            },
+            "totalAreaScanned": 2081.19037749,
+            "projectCount": 4
+        },
+        "2020-09": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard + Video": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 3,
+            "averageSmartTagsCount": 3,
+            "totalProcessingTime": 24.817558055555555,
+            "averageProcessingTime": 24.817558055555555,
+            "projectCountByScanner": {
+                "f8o18axPuc": 1
+            },
+            "totalAreaScanned": 581.1526485100001,
+            "projectCount": 1
+        },
+        "2020-08": {
+            "finishedProjects": 2,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Pro": 1,
+                "Standard": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 2,
+            "totalSmartTags": 6,
+            "averageSmartTagsCount": 3,
+            "totalProcessingTime": 45.412375833333336,
+            "averageProcessingTime": 22.706187916666668,
+            "projectCountByScanner": {
+                "f8o18axPuc": 2
+            },
+            "totalAreaScanned": 2072.92693146,
+            "projectCount": 2
+        },
+        "2020-07": {
+            "finishedProjects": 3,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 3
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 3,
+            "totalSmartTags": 8,
+            "averageSmartTagsCount": 2.6666666666666665,
+            "totalProcessingTime": 4.435558888888888,
+            "averageProcessingTime": 1.4785196296296295,
+            "projectCountByScanner": {
+                "f8o18axPuc": 3
+            },
+            "totalAreaScanned": 2476.22335471,
+            "projectCount": 3
+        },
+        "2020-06": {
+            "finishedProjects": 2,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Djokin Pakazh": 1,
+                "Pro": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 1,
+            "totalSmartTags": 10,
+            "averageSmartTagsCount": 5,
+            "totalProcessingTime": 29.667180833333333,
+            "averageProcessingTime": 14.833590416666667,
+            "projectCountByScanner": {
+                "f8o18axPuc": 2
+            },
+            "totalAreaScanned": 5886.39156238,
+            "projectCount": 2
+        },
+        "2020-05": {
+            "finishedProjects": 4,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 2,
+                "Djokin Pakazh": 1,
+                "Pro": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 4,
+            "totalSmartTags": 4,
+            "averageSmartTagsCount": 1,
+            "totalProcessingTime": 191.26891944444444,
+            "averageProcessingTime": 47.81722986111111,
+            "projectCountByScanner": {
+                "f8o18axPuc": 2,
+                "xNnkHGiZBS": 1,
+                "dXN9A2P2Bj": 1
+            },
+            "totalAreaScanned": 4235.81853912,
+            "projectCount": 4
+        },
+        "2020-03": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 5,
+            "averageSmartTagsCount": 5,
+            "totalProcessingTime": 1.5336441666666667,
+            "averageProcessingTime": 1.5336441666666667,
+            "projectCountByScanner": {
+                "f8o18axPuc": 1
+            },
+            "totalAreaScanned": 609.7211155,
+            "projectCount": 1
+        },
+        "2020-02": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 0.9877761111111111,
+            "averageProcessingTime": 0.9877761111111111,
+            "projectCountByScanner": {
+                "f8o18axPuc": 1
+            },
+            "totalAreaScanned": 1679.8217687299998,
+            "projectCount": 1
+        },
+        "2019-12": {
+            "finishedProjects": 3,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Pro": 1,
+                "Djokin Pakazh": 2
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 2,
+            "totalSmartTags": 11,
+            "averageSmartTagsCount": 3.6666666666666665,
+            "totalProcessingTime": 553.9295372222223,
+            "averageProcessingTime": 184.64317907407408,
+            "projectCountByScanner": {
+                "n7qQLftX4y": 2,
+                "6478CVrWej": 1
+            },
+            "totalAreaScanned": 4962.005052619999,
+            "projectCount": 3
+        },
+        "2019-11": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Djokin Pakazh": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 0,
+            "totalSmartTags": 3,
+            "averageSmartTagsCount": 3,
+            "totalProcessingTime": 0.6571669444444445,
+            "averageProcessingTime": 0.6571669444444445,
+            "projectCountByScanner": {
+                "n7qQLftX4y": 1
+            },
+            "totalAreaScanned": 1661.24973567,
+            "projectCount": 1
+        },
+        "2019-10": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Djokin Pakazh": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 8,
+            "averageSmartTagsCount": 8,
+            "totalProcessingTime": 1227.2780330555556,
+            "averageProcessingTime": 1227.2780330555556,
+            "projectCountByScanner": {
+                "n7qQLftX4y": 1
+            },
+            "totalAreaScanned": 2415.64304912,
+            "projectCount": 1
+        },
+        "2019-09": {
+            "finishedProjects": 2,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 1,
+                "Djokin Pakazh": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 1,
+            "totalSmartTags": 4,
+            "averageSmartTagsCount": 2,
+            "totalProcessingTime": 3600.794275,
+            "averageProcessingTime": 1800.3971375,
+            "projectCountByScanner": {
+                "n7qQLftX4y": 2
+            },
+            "totalAreaScanned": 2860.85840453,
+            "projectCount": 2
+        },
+        "2019-08": {
+            "finishedProjects": 5,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 3,
+                "Djokin Pakazh": 1,
+                "Floor Plan": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 5,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 672.5102177777778,
+            "averageProcessingTime": 134.50204355555556,
+            "projectCountByScanner": {
+                "f8o18axPuc": 4,
+                "GtunpUTL5l": 1
+            },
+            "totalAreaScanned": 6172.09022535,
+            "projectCount": 5
+        },
+        "2019-07": {
+            "finishedProjects": 14,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 10,
+                "Pro": 2,
+                "Djokin Pakazh": 2
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 14,
+            "totalSmartTags": 47,
+            "averageSmartTagsCount": 3.357142857142857,
+            "totalProcessingTime": 9.77130027777778,
+            "averageProcessingTime": 0.6979500198412699,
+            "projectCountByScanner": {
+                "f8o18axPuc": 14
+            },
+            "totalAreaScanned": 28189.36458478,
+            "projectCount": 14
+        },
+        "2019-06": {
+            "finishedProjects": 3,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Djokin Pakazh": 2,
+                "Standard": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 3,
+            "totalSmartTags": 21,
+            "averageSmartTagsCount": 7,
+            "totalProcessingTime": 49.22340166666667,
+            "averageProcessingTime": 16.407800555555557,
+            "projectCountByScanner": {
+                "n7qQLftX4y": 3
+            },
+            "totalAreaScanned": 7504.7245523599995,
+            "projectCount": 3
+        },
+        "2019-05": {
+            "finishedProjects": 3,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "HDR Photos": 1,
+                "Standard + Video": 1,
+                "dalijetest": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 3,
+            "totalSmartTags": 8,
+            "averageSmartTagsCount": 2.6666666666666665,
+            "totalProcessingTime": 5.0658747222222225,
+            "averageProcessingTime": 1.6886249074074076,
+            "projectCountByScanner": {
+                "n7qQLftX4y": 1,
+                "1Jf1ihqoOF": 2
+            },
+            "totalAreaScanned": 3099.90524851,
+            "projectCount": 3
+        },
+        "2019-04": {
+            "finishedProjects": 6,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "ristinInspection": 1,
+                "testiram85": 3,
+                "HDR Photos": 2
+            },
+            "deletedProjects": 0,
+            "paidProjects": 2,
+            "unpaidProjects": 4,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 27.557886666666665,
+            "averageProcessingTime": 4.5929811111111105,
+            "projectCountByScanner": {
+                "n7qQLftX4y": 4,
+                "1Jf1ihqoOF": 2
+            },
+            "totalAreaScanned": 3602.4405242,
+            "projectCount": 6
+        },
+        "2019-03": {
+            "finishedProjects": 4,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "STANDARD": 2,
+                "$$$$$&&&&": 1,
+                "HDR Photos": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 4,
+            "totalSmartTags": 6,
+            "averageSmartTagsCount": 1.5,
+            "totalProcessingTime": 630.0664561111112,
+            "averageProcessingTime": 157.5166140277778,
+            "projectCountByScanner": {
+                "n7qQLftX4y": 4
+            },
+            "totalAreaScanned": 5246.318401660001,
+            "projectCount": 4
+        },
+        "2019-02": {
+            "finishedProjects": 3,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "STANDARD": 1,
+                "PRO": 2
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 3,
+            "totalSmartTags": 5,
+            "averageSmartTagsCount": 1.6666666666666667,
+            "totalProcessingTime": 8.723834444444446,
+            "averageProcessingTime": 2.9079448148148153,
+            "projectCountByScanner": {
+                "zDqOspBjvB": 1,
+                "n7qQLftX4y": 2
+            },
+            "totalAreaScanned": 2131.08428316,
+            "projectCount": 3
+        },
+        "2019-01": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "PRO": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 0,
+            "totalSmartTags": 11,
+            "averageSmartTagsCount": 11,
+            "totalProcessingTime": 23.584604166666665,
+            "averageProcessingTime": 23.584604166666665,
+            "projectCountByScanner": {
+                "n7qQLftX4y": 1
+            },
+            "totalAreaScanned": 1766.5777263399998,
+            "projectCount": 1
+        },
+        "2018-11": {
+            "finishedProjects": 4,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "PRO": 2,
+                "STANDARD": 2
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 4,
+            "totalSmartTags": 9,
+            "averageSmartTagsCount": 2.25,
+            "totalProcessingTime": 292.439955,
+            "averageProcessingTime": 73.10998875,
+            "projectCountByScanner": {
+                "7No9YY44cf": 2,
+                "n7qQLftX4y": 2
+            },
+            "totalAreaScanned": 3481.43598957,
+            "projectCount": 4
+        },
+        "2018-10": {
+            "finishedProjects": 4,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "STANDARD": 3,
+                "INSPECTION": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 4,
+            "totalSmartTags": 2,
+            "averageSmartTagsCount": 0.5,
+            "totalProcessingTime": 7.919909166666667,
+            "averageProcessingTime": 1.9799772916666667,
+            "projectCountByScanner": {
+                "18EBmj0dtA": 3,
+                "zDqOspBjvB": 1
+            },
+            "totalAreaScanned": 4358.001720800001,
+            "projectCount": 4
+        },
+        "2018-07": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "HDR_PHOTOS": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 0.44030722222222224,
+            "averageProcessingTime": 0.44030722222222224,
+            "projectCountByScanner": {
+                "18EBmj0dtA": 1
+            },
+            "totalAreaScanned": 0,
+            "projectCount": 1
+        },
+        "2018-05": {
+            "finishedProjects": 4,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "INSPECTION": 4
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 4,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 0.5371338888888889,
+            "averageProcessingTime": 0.13428347222222223,
+            "projectCountByScanner": {
+                "WDKhlZOaKo": 4
+            },
+            "totalAreaScanned": 0,
+            "projectCount": 4
+        },
+        "2018-04": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "PRO": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": null,
+            "averageProcessingTime": null,
+            "projectCountByScanner": {
+                "zDqOspBjvB": 1
+            },
+            "totalAreaScanned": 0,
+            "projectCount": 1
+        },
+        "2018-01": {
+            "finishedProjects": 2,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "INSPECTION": 2
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 2,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 0.9009652777777778,
+            "averageProcessingTime": 0.4504826388888889,
+            "projectCountByScanner": {
+                "zDqOspBjvB": 2
+            },
+            "totalAreaScanned": 1732.4174133000001,
+            "projectCount": 2
+        },
+        "2017-12": {
+            "finishedProjects": 2,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "INSPECTION": 2
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 2,
+            "totalSmartTags": 6,
+            "averageSmartTagsCount": 3,
+            "totalProcessingTime": 0.25660083333333333,
+            "averageProcessingTime": 0.12830041666666667,
+            "projectCountByScanner": {
+                "zDqOspBjvB": 1,
+                "18EBmj0dtA": 1
+            },
+            "totalAreaScanned": 908.5614239800001,
+            "projectCount": 2
+        },
+        "2017-11": {
+            "finishedProjects": 2,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "MARKETING": 1,
+                "INSPECTION": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 2,
+            "totalSmartTags": 6,
+            "averageSmartTagsCount": 3,
+            "totalProcessingTime": 1804.5444291666665,
+            "averageProcessingTime": 902.2722145833333,
+            "projectCountByScanner": {
+                "18EBmj0dtA": 2
+            },
+            "totalAreaScanned": 3990.09915353,
+            "projectCount": 2
+        },
+        "2017-09": {
+            "finishedProjects": 3,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "MARKETING": 1,
+                "INSPECTION": 1,
+                "INVALID_PACKAGE": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 2,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 1.7177600000000002,
+            "averageProcessingTime": 0.5725866666666667,
+            "projectCountByScanner": {
+                "18EBmj0dtA": 3
+            },
+            "totalAreaScanned": 0,
+            "projectCount": 3
+        },
+        "2017-08": {
+            "finishedProjects": 4,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "MARKETING": 1,
+                "STANDARD": 3
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 4,
+            "totalSmartTags": 1,
+            "averageSmartTagsCount": 0.25,
+            "totalProcessingTime": 23.051009166666667,
+            "averageProcessingTime": 5.762752291666667,
+            "projectCountByScanner": {
+                "18EBmj0dtA": 4
+            },
+            "totalAreaScanned": 0,
+            "projectCount": 4
+        },
+        "2017-07": {
+            "finishedProjects": 8,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "STANDARD": 8
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 8,
+            "totalSmartTags": 2,
+            "averageSmartTagsCount": 0.25,
+            "totalProcessingTime": 251.99215250000003,
+            "averageProcessingTime": 31.499019062500004,
+            "projectCountByScanner": {
+                "18EBmj0dtA": 5,
+                "n7qQLftX4y": 3
+            },
+            "totalAreaScanned": 0,
+            "projectCount": 8
+        },
+        "2017-06": {
+            "finishedProjects": 2,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "STANDARD": 2
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 2,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 7.000227777777778,
+            "averageProcessingTime": 3.500113888888889,
+            "projectCountByScanner": {
+                "n7qQLftX4y": 2
+            },
+            "totalAreaScanned": 0,
+            "projectCount": 2
+        }
+    },
+    "IMXmiLCBks": {
+        "2019-04": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "STANDARD": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 19.604178333333333,
+            "averageProcessingTime": 19.604178333333333,
+            "projectCountByScanner": {
+                "n7qQLftX4y": 1
+            },
+            "totalAreaScanned": 1168.43318529,
+            "projectCount": 1
+        },
+        "2018-10": {
+            "finishedProjects": 6,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "STANDARD": 5,
+                "Standard": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 6,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": null,
+            "averageProcessingTime": null,
+            "projectCountByScanner": {
+                "WDKhlZOaKo": 5,
+                "undefined": 1
+            },
+            "totalAreaScanned": 1571.60259452,
+            "projectCount": 6
+        },
+        "2018-06": {
+            "finishedProjects": 2,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "STANDARD": 2
+            },
+            "deletedProjects": 0,
+            "paidProjects": 2,
+            "unpaidProjects": 0,
+            "totalSmartTags": 3,
+            "averageSmartTagsCount": 1.5,
+            "totalProcessingTime": 7.924139722222222,
+            "averageProcessingTime": 3.962069861111111,
+            "projectCountByScanner": {
+                "undefined": 2
+            },
+            "totalAreaScanned": 2278.13745579,
+            "projectCount": 2
+        },
+        "2018-05": {
+            "finishedProjects": 5,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 2,
+                "STANDARD": 3
+            },
+            "deletedProjects": 0,
+            "paidProjects": 2,
+            "unpaidProjects": 3,
+            "totalSmartTags": 2,
+            "averageSmartTagsCount": 0.4,
+            "totalProcessingTime": 3344.2209044444444,
+            "averageProcessingTime": 668.8441808888889,
+            "projectCountByScanner": {
+                "undefined": 5
+            },
+            "totalAreaScanned": 3094.00878409,
+            "projectCount": 5
+        },
+        "2018-04": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "PRO": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 0,
+            "totalSmartTags": 2,
+            "averageSmartTagsCount": 2,
+            "totalProcessingTime": 266.63695527777776,
+            "averageProcessingTime": 266.63695527777776,
+            "projectCountByScanner": {
+                "undefined": 1
+            },
+            "totalAreaScanned": 1139.5762457800001,
+            "projectCount": 1
+        },
+        "2018-02": {
+            "finishedProjects": 2,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "STANDARD": 2
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 1,
+            "totalSmartTags": 16,
+            "averageSmartTagsCount": 8,
+            "totalProcessingTime": 173.93934305555555,
+            "averageProcessingTime": 86.96967152777778,
+            "projectCountByScanner": {
+                "undefined": 2
+            },
+            "totalAreaScanned": 365.60016906,
+            "projectCount": 2
+        }
+    },
+    "0bqEqWRDww": {
+        "2021-08": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "PavkeT": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 3,
+            "averageSmartTagsCount": 3,
+            "totalProcessingTime": 0.48271305555555555,
+            "averageProcessingTime": 0.48271305555555555,
+            "projectCountByScanner": {
+                "dXN9A2P2Bj": 1
+            },
+            "totalAreaScanned": 1385.5625760900002,
+            "projectCount": 1
+        },
+        "2021-06": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard + Video": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 6,
+            "averageSmartTagsCount": 6,
+            "totalProcessingTime": 0.46527583333333333,
+            "averageProcessingTime": 0.46527583333333333,
+            "projectCountByScanner": {
+                "ritkphoUkm": 1
+            },
+            "totalAreaScanned": 888.74185491,
+            "projectCount": 1
+        },
+        "2021-05": {
+            "finishedProjects": 3,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Floor Plan": 1,
+                "Standard": 1,
+                "Pro": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 3,
+            "totalSmartTags": 3,
+            "averageSmartTagsCount": 1,
+            "totalProcessingTime": 0.6065119444444445,
+            "averageProcessingTime": 0.20217064814814814,
+            "projectCountByScanner": {
+                "RVE3NF0G5D": 2,
+                "dXN9A2P2Bj": 1
+            },
+            "totalAreaScanned": 2201.93980769,
+            "projectCount": 3
+        },
+        "2021-04": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "PavkeT": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 1,
+            "averageSmartTagsCount": 1,
+            "totalProcessingTime": 1.2871033333333333,
+            "averageProcessingTime": 1.2871033333333333,
+            "projectCountByScanner": {
+                "ritkphoUkm": 1
+            },
+            "totalAreaScanned": 41.6670569,
+            "projectCount": 1
+        },
+        "2021-02": {
+            "finishedProjects": 2,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Floorplan UI": 1,
+                "HDR Photos": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 1,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 0.4666152777777778,
+            "averageProcessingTime": 0.2333076388888889,
+            "projectCountByScanner": {
+                "EJVMVyG8xK": 1,
+                "tNwcaDD9fO": 1
+            },
+            "totalAreaScanned": 0,
+            "projectCount": 2
+        },
+        "2021-01": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 1,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 0.19890388888888888,
+            "averageProcessingTime": 0.19890388888888888,
+            "projectCountByScanner": {
+                "DXStYJPhZP": 1
+            },
+            "totalAreaScanned": 154.67939578,
+            "projectCount": 1
+        },
+        "2020-11": {
+            "finishedProjects": 7,
+            "unfinishedProjects": 4,
+            "projectCountByPackage": {
+                "Standard": 3,
+                "PavkeT": 1,
+                "Pro": 1,
+                "Floor Plan": 2,
+                "HDR Photos": 4
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 10,
+            "totalSmartTags": 11,
+            "averageSmartTagsCount": 1,
+            "totalProcessingTime": 1729.8614238888888,
+            "averageProcessingTime": 157.26012944444443,
+            "projectCountByScanner": {
+                "nJs91GvqAg": 1,
+                "dXN9A2P2Bj": 9,
+                "i1S29Uxl62": 1
+            },
+            "totalAreaScanned": 2332.57588004,
+            "projectCount": 11
+        },
+        "2020-10": {
+            "finishedProjects": 9,
+            "unfinishedProjects": 7,
+            "projectCountByPackage": {
+                "Standard": 8,
+                "HDR Photos": 2,
+                "PavkeT": 1,
+                "Additional Scan Only": 1,
+                "Pro": 2,
+                "Floor Plan": 2
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 15,
+            "totalSmartTags": 8,
+            "averageSmartTagsCount": 0.5,
+            "totalProcessingTime": 388.92742472222216,
+            "averageProcessingTime": 24.307964045138885,
+            "projectCountByScanner": {
+                "dXN9A2P2Bj": 6,
+                "nJs91GvqAg": 3,
+                "i1S29Uxl62": 4,
+                "DtDt9xk0FV": 1,
+                "tNwcaDD9fO": 2
+            },
+            "totalAreaScanned": 8042.145627949999,
+            "projectCount": 16
+        },
+        "2020-09": {
+            "finishedProjects": 10,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 2,
+                "PavkeT": 2,
+                "HDR Photos": 3,
+                "Floor Plan": 2,
+                "Pro": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 9,
+            "totalSmartTags": 3,
+            "averageSmartTagsCount": 0.3,
+            "totalProcessingTime": 5.240785555555555,
+            "averageProcessingTime": 0.5240785555555555,
+            "projectCountByScanner": {
+                "ekStnaruwd": 1,
+                "dXN9A2P2Bj": 9
+            },
+            "totalAreaScanned": 4081.7171647699997,
+            "projectCount": 10
+        },
+        "2020-08": {
+            "finishedProjects": 6,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard + Video": 1,
+                "Standard": 2,
+                "HDR Photos": 1,
+                "Floor Plan": 1,
+                "PavkeT": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 6,
+            "totalSmartTags": 10,
+            "averageSmartTagsCount": 1.6666666666666667,
+            "totalProcessingTime": 4.186552222222222,
+            "averageProcessingTime": 0.6977587037037036,
+            "projectCountByScanner": {
+                "dXN9A2P2Bj": 5,
+                "i1S29Uxl62": 1
+            },
+            "totalAreaScanned": 1091.99657861,
+            "projectCount": 6
+        },
+        "2020-07": {
+            "finishedProjects": 6,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Floor Plan": 4,
+                "PavkeT": 1,
+                "HDR Photos": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 5,
+            "totalSmartTags": 1,
+            "averageSmartTagsCount": 0.16666666666666666,
+            "totalProcessingTime": 18.021015277777778,
+            "averageProcessingTime": 3.0035025462962963,
+            "projectCountByScanner": {
+                "dXN9A2P2Bj": 4,
+                "i1S29Uxl62": 2
+            },
+            "totalAreaScanned": 2177.3001642,
+            "projectCount": 6
+        },
+        "2020-06": {
+            "finishedProjects": 3,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "PavkeT": 1,
+                "Standard": 1,
+                "Floor Plan": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 3,
+            "totalSmartTags": 4,
+            "averageSmartTagsCount": 1.3333333333333333,
+            "totalProcessingTime": 1.2347869444444444,
+            "averageProcessingTime": 0.41159564814814814,
+            "projectCountByScanner": {
+                "dXN9A2P2Bj": 3
+            },
+            "totalAreaScanned": 3771.84601157,
+            "projectCount": 3
+        },
+        "2020-05": {
+            "finishedProjects": 4,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 3,
+                "PavkeT": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 4,
+            "totalSmartTags": 5,
+            "averageSmartTagsCount": 1.25,
+            "totalProcessingTime": 144.12676805555557,
+            "averageProcessingTime": 36.03169201388889,
+            "projectCountByScanner": {
+                "dXN9A2P2Bj": 3,
+                "i1S29Uxl62": 1
+            },
+            "totalAreaScanned": 2961.22961925,
+            "projectCount": 4
+        },
+        "2020-04": {
+            "finishedProjects": 4,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Standard": 3,
+                "PavkeT": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 3,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 322.4727197222222,
+            "averageProcessingTime": 80.61817993055556,
+            "projectCountByScanner": {
+                "dXN9A2P2Bj": 4
+            },
+            "totalAreaScanned": 1013.0358373800001,
+            "projectCount": 4
+        },
+        "2020-03": {
+            "finishedProjects": 3,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Floor Plan": 1,
+                "Standard": 2
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 3,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 331.7453558333333,
+            "averageProcessingTime": 110.58178527777777,
+            "projectCountByScanner": {
+                "dXN9A2P2Bj": 3
+            },
+            "totalAreaScanned": 1051.80632879,
+            "projectCount": 3
+        },
+        "2020-02": {
+            "finishedProjects": 3,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "QATEST": 3
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 2,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 27.40318166666667,
+            "averageProcessingTime": 9.134393888888889,
+            "projectCountByScanner": {
+                "dXN9A2P2Bj": 3
+            },
+            "totalAreaScanned": 4511.33562908,
+            "projectCount": 3
+        },
+        "2020-01": {
+            "finishedProjects": 1,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Pro": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 0,
+            "totalSmartTags": 3,
+            "averageSmartTagsCount": 3,
+            "totalProcessingTime": 1.8064930555555556,
+            "averageProcessingTime": 1.8064930555555556,
+            "projectCountByScanner": {
+                "dXN9A2P2Bj": 1
+            },
+            "totalAreaScanned": 785.53758171,
+            "projectCount": 1
+        },
+        "2019-11": {
+            "finishedProjects": 5,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "PRO": 1,
+                "FLOOR_PLAN": 1,
+                "Standard": 1,
+                "Floor Plan": 1,
+                "QATEST": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 4,
+            "totalSmartTags": 6,
+            "averageSmartTagsCount": 1.2,
+            "totalProcessingTime": 8.812689444444445,
+            "averageProcessingTime": 1.762537888888889,
+            "projectCountByScanner": {
+                "dXN9A2P2Bj": 5
+            },
+            "totalAreaScanned": 6657.15892051,
+            "projectCount": 5
+        },
+        "2019-09": {
+            "finishedProjects": 2,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "QATEST": 2
+            },
+            "deletedProjects": 0,
+            "paidProjects": 0,
+            "unpaidProjects": 2,
+            "totalSmartTags": 4,
+            "averageSmartTagsCount": 2,
+            "totalProcessingTime": 9.065987777777778,
+            "averageProcessingTime": 4.532993888888889,
+            "projectCountByScanner": {
+                "dXN9A2P2Bj": 2
+            },
+            "totalAreaScanned": 1576.9457944800001,
+            "projectCount": 2
+        },
+        "2019-08": {
+            "finishedProjects": 6,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "Additional scan only": 1,
+                "QATEST": 4,
+                "Standard + Video": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 3,
+            "unpaidProjects": 3,
+            "totalSmartTags": 0,
+            "averageSmartTagsCount": 0,
+            "totalProcessingTime": 13.12055472222222,
+            "averageProcessingTime": 2.18675912037037,
+            "projectCountByScanner": {
+                "dXN9A2P2Bj": 6
+            },
+            "totalAreaScanned": 8993.08560262,
+            "projectCount": 6
+        },
+        "2019-07": {
+            "finishedProjects": 5,
+            "unfinishedProjects": 0,
+            "projectCountByPackage": {
+                "QATEST": 4,
+                "Floor Plan": 1
+            },
+            "deletedProjects": 0,
+            "paidProjects": 1,
+            "unpaidProjects": 4,
+            "totalSmartTags": 7,
+            "averageSmartTagsCount": 1.4,
+            "totalProcessingTime": 7.018570277777778,
+            "averageProcessingTime": 1.4037140555555556,
+            "projectCountByScanner": {
+                "dXN9A2P2Bj": 5
+            },
+            "totalAreaScanned": 3807.5703192799997,
+            "projectCount": 5
+        }
+    }
+}

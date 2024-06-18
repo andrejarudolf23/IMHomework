@@ -4,13 +4,14 @@ const path = require('path');
 const fs = require('fs');
 
 const statsFilePath = path.join(__dirname, '..', 'stats.json');
+const workerStatusPath = path.join(__dirname, '..', './worker/workerStatus.json');
 
-router.get('/api/stats/:month', (req, res) => {
+router.get('/api/stats/:month', async (req, res) => {
 
     const yearMonth = req.params.month;
     //console.log("yearMonth is: " + yearMonth);
 
-    fs.readFile(statsFilePath, 'utf-8', (err, data) => {
+    await fs.readFile(statsFilePath, 'utf-8', (err, data) => {
         if (err){
             return res.status(500).json({ error: 'Error reading file' });
         }
@@ -78,6 +79,25 @@ router.get('/api/stats/:month/:orgId', (req, res) => {
         
 
     })
+})
+
+router.get('/api/workerStatus', async (req, res) => {
+
+    await fs.readFile(workerStatusPath, 'utf-8', (err, data) => {
+        if (err){
+            return res.status(500).json({ error: 'Error reading file' });
+        }
+
+        try {
+           // console.log("DATA IS: " + JSON.stringify(data));
+            const status = JSON.parse(data);
+            res.json(status);
+
+        } catch (error) {
+            res.status(500).json({ status: 'unknown', lastUpdate: null });
+        }
+    })
+
 })
 
 module.exports = router;

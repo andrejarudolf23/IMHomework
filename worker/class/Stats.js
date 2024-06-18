@@ -7,6 +7,7 @@ const fs = require('fs').promises;
 class Stats {
     constructor() {
         this.statsFilePath = path.join(__dirname, '..', '..', 'stats.json');
+        this.workerStatusPath = path.join(__dirname, '..', 'workerStatus.json');
     }
 
     fetchDataAndUpdateStatsFile = async () => {
@@ -99,13 +100,15 @@ class Stats {
             }
 
             allStats[org.organizationId] = orgStats;
-        }
+        }        
 
         try {
             await fs.writeFile(this.statsFilePath, JSON.stringify(allStats));
             console.log("Data written successfully");
+            await fs.writeFile(this.workerStatusPath, JSON.stringify({ status: 'ok', lastUpdate: new Date().toISOString() }));
         } catch (error) {
             console.error("Error writing stats file: ", error);
+            await fs.writeFile(this.workerStatusPath, JSON.stringify({ status: 'error', lastUpdate: new Date().toISOString() }));
         }
     }
 

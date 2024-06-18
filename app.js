@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 3000;
+const port = 4020;
 const statsRouter = require('./routes/statsRoutes');
 
 app.use(express.static('public'));

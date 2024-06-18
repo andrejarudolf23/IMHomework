@@ -96,13 +96,40 @@ document.addEventListener('DOMContentLoaded', () => {
 
     };
 
+    fetchWorkerStatus = async () => {
+        try {
+            const response = await fetch('/api/workerStatus');
+            const status = await response.json();
+            //console.log("STATUS IS: " + JSON.stringify(status));
+            displayWorkerStatus(status);
+        } catch (err) {
+            console.error('Error fetching worker status:', err);
+        }
+    }
+
+    displayWorkerStatus = (status) => {
+        //console.log("STATUS IS: " + status.status);
+        const statusDiv = document.getElementById('workerStatus');
+
+        if (status.status === 'ok') {
+            statusDiv.textContent = `Worker is running. Last update: ${new Date(status.lastUpdate).toLocaleString()}`;
+            statusDiv.style.color = 'green';
+        } else {
+            statusDiv.textContent = `Worker error. Last update: ${new Date(status.lastUpdate).toLocaleString()}`;
+            statusDiv.style.color = 'red';
+        }
+    }
+
     setAutoRefresh = (yearMonth) => {
         if(autoRefreshTimeout) {
             clearTimeout(autoRefreshTimeout);
         }
-
         fetchStats(yearMonth);
-        autoRefreshTimeout = setInterval(() => fetchStats(yearMonth), 10000);
+        fetchWorkerStatus();
+        autoRefreshTimeout = setInterval(() => {
+            fetchStats(yearMonth);
+            fetchWorkerStatus();
+        }, 60000);
     }
     
     monthInput.value = getCurrentYearMonth();
@@ -116,4 +143,5 @@ document.addEventListener('DOMContentLoaded', () => {
     })
 
     setAutoRefresh(monthInput.value);
+    
 });

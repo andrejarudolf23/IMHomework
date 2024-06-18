@@ -11,9 +11,17 @@ document.addEventListener('DOMContentLoaded', () => {
         return `${year}-${month}`;
     }
 
-    fetchStats = async (yearMonth) => {        
-        const response = await fetch(`/api/stats/${yearMonth}`);
-        const stats = await response.json();
+    fetchStats = async (yearMonth) => {   
+        console.log("Function called");       
+        let stats;
+        try {
+            const response = await fetch(`/api/stats/${yearMonth}`);
+            stats = await response.json();
+
+        } catch (error) {
+            console.log("Error fetching stats: " + error);
+            return;
+        }
 
         this.displayStats(stats);
     }
@@ -90,11 +98,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     setAutoRefresh = (yearMonth) => {
         if(autoRefreshTimeout) {
-            clearTimeout;
+            clearTimeout(autoRefreshTimeout);
         }
 
         fetchStats(yearMonth);
-        autoRefreshTimeout = setInterval(() => fetchStats(yearMonth), 60000);
+        autoRefreshTimeout = setInterval(() => fetchStats(yearMonth), 10000);
     }
     
     monthInput.value = getCurrentYearMonth();

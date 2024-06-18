@@ -5,7 +5,7 @@ const action = () => new Promise((resolve, reject) => {
     return setTimeout(async () => {
         await Stats.updateStatsFile();
         resolve();
-    }, 5000)
+    }, 10000)
 })
 const actionRecursion = () => {
     action().then(() => {
